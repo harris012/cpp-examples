@@ -71,3 +71,4 @@ int main()
     std::cout << "Your weight on Neptune will be " << new_weight << "\n";
     std::cout << "Good luck!";
   }
+}
